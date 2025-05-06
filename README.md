@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @NOXUSTIC
+# 👋 Hi, I’m @NOXUSTIC [SAADAT]
 
 - 👀 I’m interested in Embedded Systems and Web Development  
 - 🌱 I’m currently learning Machine Learning & Artificial Intelligence  
