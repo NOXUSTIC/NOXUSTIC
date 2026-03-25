@@ -98,5 +98,3 @@ CTO at BOT Engineers | Robotics & Embedded Systems Engineer | Hardware + Softwar
   <img src="https://komarev.com/ghpvc/?username=NOXUSTIC&label=Profile+Views&color=ff6e00&style=flat" alt="Profile Views" />
 </p>
 
-
-This is ready to paste — nothing left to fill in. All three links are live: your portfolio at `saadat-five.vercel.app`, your company at `botengineersbd.com`, and your LinkedIn.
