@@ -1,17 +1,21 @@
-# 🤖 Hi, I'm @NOXUSTIC [SAADAT]
+# » Hi, I'm @NOXUSTIC [SAADAT]
 
 > *"Building robots that bridge the gap between imagination and reality."*
 
-- 👀 I'm interested in **Embedded Systems** and **Web Development**
-- 🌱 I'm currently learning **Machine Learning & Artificial Intelligence**
-- 💞️ Looking to collaborate on innovative projects that **blend hardware and software**
-- 📫 Reach me on [LinkedIn](https://bd.linkedin.com/in/saadat-s-rahman-7634a1277) or via GitHub messages
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I enjoy building robots that solve real-world problems!
+- I'm interested in **Embedded Systems** and **Web Development**
+- Currently learning **Machine Learning & Artificial Intelligence**
+- Looking to collaborate on innovative projects that **blend hardware and software**
+- Reach me on [LinkedIn](https://bd.linkedin.com/in/saadat-s-rahman-7634a1277) or via GitHub messages
+- Pronouns: **He/Him**
+- Fun fact: I enjoy building robots that solve real-world problems!
 
 ---
 
-## 🦾 Robotics & Embedded Systems
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6E00&width=500&lines=Robotics+%26+Embedded+Systems+Engineer;ML+%2F+AI+Enthusiast;Hardware+%2B+Software+Builder" alt="Typing SVG" />
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=99999&color=FF6E00&width=400&lines=%5B+Robotics+%26+Embedded+Systems+%5D" alt="Section Header" />
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
@@ -21,13 +25,13 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="SolidWorks" width="100" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ROS_logo.svg/1200px-ROS_logo.svg.png" alt="ROS" width="80" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Autodesk_Fusion_360_logo.png/240px-Autodesk_Fusion_360_logo.png" alt="Autodesk Fusion 360" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" height="40"/>
+  <img src="https://img.shields.io/badge/Autodesk%20Fusion-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Fusion" height="40"/>
 </p>
 
 ---
 
-## 💻 Programming Languages
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=99999&color=FF6E00&width=400&lines=%5B+Programming+Languages+%5D" alt="Section Header" />
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -39,7 +43,7 @@
 
 ---
 
-## 🌐 Web & Backend
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=99999&color=FF6E00&width=400&lines=%5B+Web+%26+Backend+%5D" alt="Section Header" />
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
@@ -52,7 +56,7 @@
 
 ---
 
-## 🎨 Design & Visualization
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=99999&color=FF6E00&width=400&lines=%5B+Design+%26+Visualization+%5D" alt="Section Header" />
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
@@ -63,7 +67,7 @@
 
 ---
 
-## 📊 GitHub Battle Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=99999&color=FF6E00&width=400&lines=%5B+GitHub+Stats+%5D" alt="Section Header" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NOXUSTIC&show_icons=true&theme=radical&title_color=ff6e00&icon_color=ff6e00&border_color=ff6e00&bg_color=0d1117" alt="Saadat's GitHub Stats" />
@@ -80,9 +84,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NOXUSTIC&label=Profile%20Views&color=ff6e00&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NOXUSTIC&label=Profile+Views&color=ff6e00&style=flat" alt="Profile Views" />
 </p>
 
 <!---
-NOXUSTIC/NOXUSTIC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NOXUSTIC/NOXUSTIC is a special repository because its README.md appears on your GitHub profile.
 --->
