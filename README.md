@@ -1,17 +1,28 @@
-# » Hi, I'm @NOXUSTIC [SAADAT]
+# Hi, I'm @NOXUSTIC [SAADAT]
 
 > *"Building robots that bridge the gap between imagination and reality."*
 
-- I'm interested in **Embedded Systems** and **Web Development**
+CTO at BOT Engineers | Robotics & Embedded Systems Engineer | Hardware + Software
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6E00&width=500&lines=CTO+at+BOT+Engineers;Robotics+%26+Embedded+Systems+Engineer;Hardware+%2B+Software+Builder" alt="Typing SVG" />
+
+---
+
+- Interested in **Embedded Systems** and **Web Development**
 - Currently learning **Machine Learning & Artificial Intelligence**
 - Looking to collaborate on innovative projects that **blend hardware and software**
-- Reach me on [LinkedIn](https://bd.linkedin.com/in/saadat-s-rahman-7634a1277) or via GitHub messages
 - Pronouns: **He/Him**
 - Fun fact: I enjoy building robots that solve real-world problems!
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6E00&width=500&lines=Robotics+%26+Embedded+Systems+Engineer;ML+%2F+AI+Enthusiast;Hardware+%2B+Software+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=99999&color=FF6E00&width=400&lines=%5B+Connect+%26+Find+Me+%5D" alt="Section Header" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-saadat--five.vercel.app-FF6E00?style=for-the-badge&logo=vercel&logoColor=white)](https://saadat-five.vercel.app)
+[![BOT Engineers](https://img.shields.io/badge/BOT%20Engineers-botengineersbd.com-22314E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.botengineersbd.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saadat%20S.%20Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/saadat-s-rahman-7634a1277)
 
 ---
 
@@ -87,6 +98,5 @@
   <img src="https://komarev.com/ghpvc/?username=NOXUSTIC&label=Profile+Views&color=ff6e00&style=flat" alt="Profile Views" />
 </p>
 
-<!---
-NOXUSTIC/NOXUSTIC is a special repository because its README.md appears on your GitHub profile.
---->
+
+This is ready to paste — nothing left to fill in. All three links are live: your portfolio at `saadat-five.vercel.app`, your company at `botengineersbd.com`, and your LinkedIn.
