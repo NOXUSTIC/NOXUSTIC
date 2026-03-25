@@ -6,7 +6,7 @@ CTO at BOT Engineers | Robotics & Embedded Systems Engineer | Hardware + Softwar
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6E00&width=500&lines=CTO+at+BOT+Engineers;Robotics+%26+Embedded+Systems+Engineer;Hardware+%2B+Software+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6E00&width=500&lines=Robotics+%26+Embedded+Systems+Engineer;ML+%2F+AI+Enthusiast;Hardware+%2B+Software+Builder" alt="Typing SVG" />
 
 ---
 
