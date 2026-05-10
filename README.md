@@ -1,115 +1,230 @@
-# Hi, I'm @NOXUSTIC [SAADAT]
+cat > /mnt/user-data/outputs/profile-card.svg << 'SVGEOF'
+<svg width="680" viewBox="0 0 680 1616" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Courier New',monospace">
+<defs>
+  <style>
+    .blink{animation:blink 1s step-end infinite}
+    @keyframes blink{50%{opacity:0}}
+    .b1{animation:g1 1.2s ease-out both}
+    .b2{animation:g2 1.2s .1s ease-out both}
+    .b3{animation:g3 1.2s .2s ease-out both}
+    .b4{animation:g4 1.2s .3s ease-out both}
+    .b5{animation:g5 1.2s .4s ease-out both}
+    .b6{animation:g6 1.2s .5s ease-out both}
+    @keyframes g1{from{width:0}to{width:364px}}
+    @keyframes g2{from{width:0}to{width:352px}}
+    @keyframes g3{from{width:0}to{width:340px}}
+    @keyframes g4{from{width:0}to{width:320px}}
+    @keyframes g5{from{width:0}to{width:296px}}
+    @keyframes g6{from{width:0}to{width:272px}}
+  </style>
+  <linearGradient id="gv" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00ff88"/>
+    <stop offset="100%" stop-color="#a855f7"/>
+  </linearGradient>
+  <linearGradient id="vv" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#7c3aed"/>
+    <stop offset="100%" stop-color="#a855f7"/>
+  </linearGradient>
+</defs>
 
-> *"Building robots that bridge the gap between imagination and reality."*
+<!-- BG -->
+<rect width="680" height="1616" rx="12" fill="#060608"/>
+<rect width="680" height="1616" rx="12" fill="none" stroke="#2d1b4e" stroke-width="1"/>
 
-CTO at BOT Engineers | Robotics & Embedded Systems Engineer | Hardware + Software
+<!-- TITLEBAR -->
+<rect width="680" height="42" rx="12" fill="#0a0a14"/>
+<rect y="24" width="680" height="18" fill="#0a0a14"/>
+<rect y="41" width="680" height="1" fill="#1a1a2e"/>
+<circle cx="22" cy="21" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="21" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="21" r="6" fill="#27c93f"/>
+<text x="340" y="26" text-anchor="middle" fill="#4a5568" font-size="11">noxustic@bot-engineers ~ zsh</text>
 
----
+<!-- BOOT LINES y=52 -->
+<text x="32" y="74" fill="#27c93f" font-size="11">[  OK  ]</text><text x="102" y="74" fill="#4a5568" font-size="11">Starting system profile...</text>
+<text x="32" y="92" fill="#27c93f" font-size="11">[  OK  ]</text><text x="102" y="92" fill="#4a5568" font-size="11">Loading embedded systems driver...</text>
+<text x="32" y="110" fill="#a855f7" font-size="11">[ WARN ]</text><text x="102" y="110" fill="#4a5568" font-size="11">Coffee levels: critically low</text>
+<text x="32" y="128" fill="#27c93f" font-size="11">[  OK  ]</text><text x="102" y="128" fill="#4a5568" font-size="11">Mounting /dev/robot ... done</text>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&width=600&lines=Robotics+%26+Embedded+Systems+Engineer;ML+%2F+AI+Enthusiast;Hardware+%2B+Software+Builder;17+Robots+Built+%26+Counting..." alt="Typing SVG" />
+<!-- PROMPT 1 y=134 -->
+<text x="32" y="154" fill="#a855f7" font-size="13" font-weight="700">noxustic@BOT-ENG:~$</text>
+<text x="222" y="154" fill="#00ff88" font-size="13">cat ./profile.json</text>
 
----
+<!-- ASCII banner y=154 -->
+<text x="30" y="172" fill="#00ff88" font-size="9.4">&#x2588;&#x2588;&#x2588;&#x2557;   &#x2588;&#x2588;&#x2557; &#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2557; &#x2588;&#x2588;&#x2557;  &#x2588;&#x2588;&#x2557;&#x2588;&#x2588;&#x2557;   &#x2588;&#x2588;&#x2557;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2557;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2557;&#x2588;&#x2588;&#x2557; &#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2557;</text>
+<text x="30" y="185" fill="#00ff88" font-size="9.4">&#x2588;&#x2588;&#x2588;&#x2588;&#x2557;  &#x2588;&#x2588;&#x2551;&#x2588;&#x2588;&#x2554;&#x2550;&#x2550;&#x2550;&#x2588;&#x2588;&#x2557;&#x255A;&#x2588;&#x2588;&#x2557;&#x2588;&#x2588;&#x2554;&#x255D;&#x2588;&#x2588;&#x2551;   &#x2588;&#x2588;&#x2551;&#x2588;&#x2588;&#x2554;&#x2550;&#x2550;&#x2550;&#x2550;&#x255D;&#x255A;&#x2550;&#x2550;&#x2588;&#x2588;&#x2554;&#x2550;&#x2550;&#x255D;&#x2588;&#x2588;&#x2551;&#x2588;&#x2588;&#x2554;&#x2550;&#x2550;&#x2550;&#x2550;&#x255D;</text>
+<text x="30" y="198" fill="#00ff88" font-size="9.4">&#x2588;&#x2588;&#x2554;&#x2588;&#x2588;&#x2557; &#x2588;&#x2588;&#x2551;&#x2588;&#x2588;&#x2551;   &#x2588;&#x2588;&#x2551; &#x255A;&#x2588;&#x2588;&#x2588;&#x2554;&#x255D; &#x2588;&#x2588;&#x2551;   &#x2588;&#x2588;&#x2551;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2557;      &#x2588;&#x2588;&#x2551;   &#x2588;&#x2588;&#x2551;&#x2588;&#x2588;&#x2551;</text>
+<text x="30" y="211" fill="#00ff88" font-size="9.4">&#x2588;&#x2588;&#x2551;&#x255A;&#x2588;&#x2588;&#x2557;&#x2588;&#x2588;&#x2551;&#x2588;&#x2588;&#x2551;   &#x2588;&#x2588;&#x2551; &#x2588;&#x2588;&#x2554;&#x2588;&#x2588;&#x2557; &#x2588;&#x2588;&#x2551;   &#x2588;&#x2588;&#x2551;&#x2588;&#x2588;&#x2554;&#x2550;&#x2550;&#x255D;      &#x2588;&#x2588;&#x2551;   &#x2588;&#x2588;&#x2551;&#x2588;&#x2588;&#x2551;</text>
+<text x="30" y="224" fill="#00ff88" font-size="9.4">&#x2588;&#x2588;&#x2551; &#x255A;&#x2588;&#x2588;&#x2588;&#x2588;&#x2551;&#x255A;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2554;&#x255D;&#x2588;&#x2588;&#x2554;&#x255D; &#x2588;&#x2588;&#x2557;&#x255A;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2554;&#x255D;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2557;   &#x2588;&#x2588;&#x2551;   &#x2588;&#x2588;&#x2551;&#x255A;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2557;</text>
+<text x="30" y="237" fill="#00ff88" font-size="9.4">&#x255A;&#x2550;&#x255D;  &#x255A;&#x2550;&#x2550;&#x2550;&#x255D; &#x255A;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x255D; &#x255A;&#x2550;&#x255D;  &#x255A;&#x2550;&#x255D; &#x255A;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x255D; &#x255A;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x255D;   &#x255A;&#x2550;&#x255D;   &#x255A;&#x2550;&#x255D; &#x255A;&#x2550;&#x2550;&#x2550;&#x2550;&#x2550;&#x255D;</text>
+<text x="32" y="256" fill="#4a5568" font-size="11" font-style="italic">// "Building robots that bridge the gap between imagination and reality."</text>
 
-- Interested in **Embedded Systems** and **Web Development**
-- Currently learning **Machine Learning & Artificial Intelligence**
-- Looking to collaborate on innovative projects that **blend hardware and software**
-- Pronouns: **He/Him**
-- Fun fact: I've built **17 robots** that solve real-world problems!
+<!-- PROMPT 2 whoami y=270 -->
+<text x="32" y="290" fill="#a855f7" font-size="13" font-weight="700">noxustic@BOT-ENG:~$</text>
+<text x="222" y="290" fill="#00ff88" font-size="13">whoami --verbose</text>
+<rect x="32" y="300" width="616" height="1" fill="#2d1b4e"/>
+<text x="32" y="316" fill="#a855f7" font-size="10" letter-spacing="2">// IDENTITY</text>
 
----
+<text x="52" y="338" fill="#4a5568" font-size="12">alias         :</text><text x="185" y="338" fill="#a855f7" font-size="12">NOXUSTIC</text>
+<text x="52" y="356" fill="#4a5568" font-size="12">real_name     :</text><text x="185" y="356" fill="#c8ffd4" font-size="12">Saadat S. Rahman</text>
+<text x="52" y="374" fill="#4a5568" font-size="12">role          :</text><text x="185" y="374" fill="#00ff88" font-size="12">CTO @ BOT Engineers</text>
+<text x="52" y="392" fill="#4a5568" font-size="12">location      :</text><text x="185" y="392" fill="#c8ffd4" font-size="12">Narayanganj, BD</text>
+<text x="52" y="410" fill="#4a5568" font-size="12">pronouns      :</text><text x="185" y="410" fill="#c8ffd4" font-size="12">he/him</text>
+<text x="52" y="428" fill="#4a5568" font-size="12">fun_fact      :</text><text x="185" y="428" fill="#a855f7" font-size="12">"I build robots for fun"</text>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=300&lines=%5B+Connect+%26+Find+Me+%5D" alt="Section Header" />
+<!-- PROMPT 3 lspci y=436 -->
+<text x="32" y="456" fill="#a855f7" font-size="13" font-weight="700">noxustic@BOT-ENG:~$</text>
+<text x="222" y="456" fill="#00ff88" font-size="13">lspci | grep -i "skill"</text>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saadat--five.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://saadat-five.vercel.app)
-[![BOT Engineers](https://img.shields.io/badge/BOT%20Engineers-botengineersbd.com-00FF88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.botengineersbd.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saadat%20S.%20Rahman-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/saadat-s-rahman-7634a1277)
-[![GitHub](https://img.shields.io/badge/GitHub-NOXUSTIC-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/NOXUSTIC)
+<!-- EMBEDDED -->
+<rect x="32" y="466" width="616" height="1" fill="#2d1b4e"/>
+<text x="32" y="480" fill="#a855f7" font-size="10" letter-spacing="2">// EMBEDDED + ROBOTICS</text>
+<rect x="32" y="488" width="72" height="20" rx="2" fill="#0e0818" stroke="#3b1f6a" stroke-width="1"/><text x="68" y="502" text-anchor="middle" fill="#a855f7" font-size="10">Arduino</text>
+<rect x="112" y="488" width="40" height="20" rx="2" fill="#0e0818" stroke="#3b1f6a" stroke-width="1"/><text x="132" y="502" text-anchor="middle" fill="#a855f7" font-size="10">ROS</text>
+<rect x="160" y="488" width="118" height="20" rx="2" fill="#0e0818" stroke="#3b1f6a" stroke-width="1"/><text x="219" y="502" text-anchor="middle" fill="#a855f7" font-size="10">Autodesk Fusion</text>
+<rect x="286" y="488" width="88" height="20" rx="2" fill="#0e0818" stroke="#3b1f6a" stroke-width="1"/><text x="330" y="502" text-anchor="middle" fill="#a855f7" font-size="10">SolidWorks</text>
+<rect x="382" y="488" width="64" height="20" rx="2" fill="#0e0818" stroke="#3b1f6a" stroke-width="1"/><text x="414" y="502" text-anchor="middle" fill="#a855f7" font-size="10">OpenCV</text>
+<rect x="454" y="488" width="60" height="20" rx="2" fill="#0e0818" stroke="#3b1f6a" stroke-width="1"/><text x="484" y="502" text-anchor="middle" fill="#a855f7" font-size="10">MATLAB</text>
+<rect x="522" y="488" width="84" height="20" rx="2" fill="#0e0818" stroke="#3b1f6a" stroke-width="1"/><text x="564" y="502" text-anchor="middle" fill="#a855f7" font-size="10">TensorFlow</text>
+<rect x="32" y="516" width="48" height="20" rx="2" fill="#0e0818" stroke="#3b1f6a" stroke-width="1"/><text x="56" y="530" text-anchor="middle" fill="#a855f7" font-size="10">Linux</text>
+<rect x="88" y="516" width="46" height="20" rx="2" fill="#0e0818" stroke="#3b1f6a" stroke-width="1"/><text x="111" y="530" text-anchor="middle" fill="#a855f7" font-size="10">Bash</text>
 
----
+<!-- LANGUAGES -->
+<rect x="32" y="546" width="616" height="1" fill="#2d1b4e"/>
+<text x="32" y="560" fill="#a855f7" font-size="10" letter-spacing="2">// LANGUAGES</text>
+<rect x="32" y="568" width="24" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="44" y="582" text-anchor="middle" fill="#00ff88" font-size="10">C</text>
+<rect x="64" y="568" width="36" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="82" y="582" text-anchor="middle" fill="#00ff88" font-size="10">C++</text>
+<rect x="108" y="568" width="60" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="138" y="582" text-anchor="middle" fill="#00ff88" font-size="10">Python</text>
+<rect x="176" y="568" width="92" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="222" y="582" text-anchor="middle" fill="#00ff88" font-size="10">JavaScript</text>
+<rect x="276" y="568" width="46" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="299" y="582" text-anchor="middle" fill="#00ff88" font-size="10">Java</text>
+<rect x="330" y="568" width="38" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="349" y="582" text-anchor="middle" fill="#00ff88" font-size="10">PHP</text>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=350&lines=%5B+Robotics+%26+Embedded+Systems+%5D" alt="Section Header" />
+<!-- WEB + BACKEND -->
+<rect x="32" y="598" width="616" height="1" fill="#2d1b4e"/>
+<text x="32" y="612" fill="#a855f7" font-size="10" letter-spacing="2">// WEB + BACKEND</text>
+<rect x="32" y="620" width="58" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="61" y="634" text-anchor="middle" fill="#00ff88" font-size="10">Django</text>
+<rect x="98" y="620" width="52" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="124" y="634" text-anchor="middle" fill="#00ff88" font-size="10">MySQL</text>
+<rect x="158" y="620" width="70" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="193" y="634" text-anchor="middle" fill="#00ff88" font-size="10">MongoDB</text>
+<rect x="236" y="620" width="64" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="268" y="634" text-anchor="middle" fill="#00ff88" font-size="10">Firebase</text>
+<rect x="308" y="620" width="60" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="338" y="634" text-anchor="middle" fill="#00ff88" font-size="10">Heroku</text>
 
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="SolidWorks" width="100" height="40"/>
-  <img src="https://img.shields.io/badge/ROS-A855F7?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" height="40"/>
-  <img src="https://img.shields.io/badge/Autodesk%20Fusion-00FF88?style=for-the-badge&logo=autodesk&logoColor=black" alt="Autodesk Fusion" height="40"/>
-</p>
+<!-- DESIGN + VIZ -->
+<rect x="32" y="650" width="616" height="1" fill="#2d1b4e"/>
+<text x="32" y="664" fill="#a855f7" font-size="10" letter-spacing="2">// DESIGN + VIZ</text>
+<rect x="32" y="672" width="52" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="58" y="686" text-anchor="middle" fill="#00ff88" font-size="10">Figma</text>
+<rect x="92" y="672" width="62" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="123" y="686" text-anchor="middle" fill="#00ff88" font-size="10">Blender</text>
+<rect x="162" y="672" width="84" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="204" y="686" text-anchor="middle" fill="#00ff88" font-size="10">Illustrator</text>
+<rect x="254" y="672" width="46" height="20" rx="2" fill="#0a0a18" stroke="#2d1b4e" stroke-width="1"/><text x="277" y="686" text-anchor="middle" fill="#00ff88" font-size="10">D3.js</text>
 
----
+<!-- PROMPT 4 skill_levels y=706 -->
+<text x="32" y="726" fill="#a855f7" font-size="13" font-weight="700">noxustic@BOT-ENG:~$</text>
+<text x="222" y="726" fill="#00ff88" font-size="13">./skill_levels --bar --radar</text>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=300&lines=%5B+Programming+Languages+%5D" alt="Section Header" />
+<!-- BARS y=750 -->
+<rect x="32" y="736" width="616" height="1" fill="#2d1b4e"/>
+<text x="32" y="750" fill="#a855f7" font-size="10" letter-spacing="2">// PROFICIENCY BARS</text>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
+<text x="52" y="772" fill="#c8ffd4" font-size="11">Embedded Systems</text><text x="628" y="772" text-anchor="end" fill="#00ff88" font-size="11">91%</text>
+<rect x="52" y="777" width="400" height="5" fill="#0d0d1a"/>
+<rect x="52" y="777" height="5" fill="url(#gv)" class="b1"/>
 
----
+<text x="52" y="800" fill="#c8ffd4" font-size="11">C / C++</text><text x="628" y="800" text-anchor="end" fill="#00ff88" font-size="11">88%</text>
+<rect x="52" y="805" width="400" height="5" fill="#0d0d1a"/>
+<rect x="52" y="805" height="5" fill="url(#gv)" class="b2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=280&lines=%5B+Web+%26+Backend+%5D" alt="Section Header" />
+<text x="52" y="828" fill="#c8ffd4" font-size="11">Robotics / ROS</text><text x="628" y="828" text-anchor="end" fill="#00ff88" font-size="11">85%</text>
+<rect x="52" y="833" width="400" height="5" fill="#0d0d1a"/>
+<rect x="52" y="833" height="5" fill="url(#gv)" class="b3"/>
 
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-</p>
+<text x="52" y="856" fill="#c8ffd4" font-size="11">Python</text><text x="628" y="856" text-anchor="end" fill="#a855f7" font-size="11">80%</text>
+<rect x="52" y="861" width="400" height="5" fill="#0d0d1a"/>
+<rect x="52" y="861" height="5" fill="url(#gv)" class="b4"/>
 
----
+<text x="52" y="884" fill="#c8ffd4" font-size="11">Web Dev</text><text x="628" y="884" text-anchor="end" fill="#a855f7" font-size="11">74%</text>
+<rect x="52" y="889" width="400" height="5" fill="#0d0d1a"/>
+<rect x="52" y="889" height="5" fill="url(#vv)" class="b5"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=300&lines=%5B+Design+%26+Visualization+%5D" alt="Section Header" />
+<text x="52" y="912" fill="#c8ffd4" font-size="11">Machine Learning</text><text x="628" y="912" text-anchor="end" fill="#a855f7" font-size="11">68%</text>
+<rect x="52" y="917" width="400" height="5" fill="#0d0d1a"/>
+<rect x="52" y="917" height="5" fill="url(#vv)" class="b6"/>
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
-</p>
+<!-- RADAR y=930 -->
+<rect x="32" y="930" width="616" height="1" fill="#2d1b4e"/>
+<text x="32" y="944" fill="#a855f7" font-size="10" letter-spacing="2">// PROFICIENCY RADAR</text>
 
----
+<!-- Grid rings cx=340 cy=1104 r=110 -->
+<polygon points="340,1076.5 363.8,1090.2 363.8,1117.8 340,1131.5 316.2,1117.8 316.2,1090.2" fill="none" stroke="#1a1a2e" stroke-width="1"/>
+<polygon points="340,1049.0 387.6,1076.5 387.6,1131.5 340,1159.0 292.4,1131.5 292.4,1076.5" fill="none" stroke="#1a1a2e" stroke-width="1"/>
+<polygon points="340,1021.5 411.4,1062.8 411.4,1145.2 340,1186.5 268.6,1145.2 268.6,1062.8" fill="none" stroke="#1a1a2e" stroke-width="1"/>
+<polygon points="340,994.0 435.3,1049.0 435.3,1159.0 340,1214.0 244.7,1159.0 244.7,1049.0" fill="none" stroke="#2d1b4e" stroke-width="1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=260&lines=%5B+Proficiency+%5D" alt="Section Header" />
+<!-- Spokes -->
+<line x1="340" y1="1104" x2="340" y2="994" stroke="#1a1a2e" stroke-width="1"/>
+<line x1="340" y1="1104" x2="435.3" y2="1049" stroke="#1a1a2e" stroke-width="1"/>
+<line x1="340" y1="1104" x2="435.3" y2="1159" stroke="#1a1a2e" stroke-width="1"/>
+<line x1="340" y1="1104" x2="340" y2="1214" stroke="#1a1a2e" stroke-width="1"/>
+<line x1="340" y1="1104" x2="244.7" y2="1159" stroke="#1a1a2e" stroke-width="1"/>
+<line x1="340" y1="1104" x2="244.7" y2="1049" stroke="#1a1a2e" stroke-width="1"/>
 
-| Skill | Level | Progress |
-|---|---|---|
-| Embedded Systems | 91% | ![91%](https://progress-bar.xyz/91/?scale=100&title=&width=200&color=A855F7&suffix=%) |
-| C / C++ | 88% | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=200&color=A855F7&suffix=%) |
-| Robotics / ROS | 85% | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=200&color=00c97a&suffix=%) |
-| Python | 80% | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=200&color=00c97a&suffix=%) |
-| Web Dev | 74% | ![74%](https://progress-bar.xyz/74/?scale=100&title=&width=200&color=00FF88&suffix=%) |
-| Machine Learning | 68% | ![68%](https://progress-bar.xyz/68/?scale=100&title=&width=200&color=00FF88&suffix=%) |
+<!-- Data polygon -->
+<polygon points="340,1003.9 423.8,1055.6 421.0,1150.8 340,1192.0 269.5,1144.7 275.2,1066.6" fill="#a855f7" fill-opacity="0.18" stroke="#a855f7" stroke-width="1.5"/>
 
----
+<!-- Dots -->
+<circle cx="340" cy="1003.9" r="4" fill="#00ff88" stroke="#a855f7" stroke-width="1.5"/>
+<circle cx="423.8" cy="1055.6" r="4" fill="#00ff88" stroke="#a855f7" stroke-width="1.5"/>
+<circle cx="421.0" cy="1150.8" r="4" fill="#00ff88" stroke="#a855f7" stroke-width="1.5"/>
+<circle cx="340" cy="1192.0" r="4" fill="#00ff88" stroke="#a855f7" stroke-width="1.5"/>
+<circle cx="269.5" cy="1144.7" r="4" fill="#00ff88" stroke="#a855f7" stroke-width="1.5"/>
+<circle cx="275.2" cy="1066.6" r="4" fill="#00ff88" stroke="#a855f7" stroke-width="1.5"/>
+<circle cx="340" cy="1104" r="3" fill="#7c3aed"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=230&lines=%5B+GitHub+Stats+%5D" alt="Section Header" />
+<!-- Radar labels -->
+<text x="340" y="978" text-anchor="middle" fill="#4a5568" font-size="11">Embedded</text>
+<text x="461" y="1059" text-anchor="start" fill="#4a5568" font-size="11">C / C++</text>
+<text x="461" y="1154" text-anchor="start" fill="#4a5568" font-size="11">Robotics</text>
+<text x="340" y="1232" text-anchor="middle" fill="#4a5568" font-size="11">Python</text>
+<text x="219" y="1154" text-anchor="end" fill="#4a5568" font-size="11">Web Dev</text>
+<text x="219" y="1059" text-anchor="end" fill="#4a5568" font-size="11">ML / AI</text>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NOXUSTIC&show_icons=true&theme=radical&title_color=A855F7&icon_color=00FF88&border_color=A855F7&bg_color=060608&text_color=c8ffd4" alt="Saadat's GitHub Stats" />
-</p>
+<!-- PROMPT 5 stats y=1268 -->
+<text x="32" y="1288" fill="#a855f7" font-size="13" font-weight="700">noxustic@BOT-ENG:~$</text>
+<text x="222" y="1288" fill="#00ff88" font-size="13">github-cli stats NOXUSTIC</text>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NOXUSTIC&layout=compact&theme=radical&title_color=A855F7&border_color=A855F7&bg_color=060608&text_color=c8ffd4" alt="Top Languages" />
-</p>
+<!-- STAT BOXES y=1296 -->
+<rect x="32" y="1296" width="192" height="62" rx="4" fill="#0a0a10" stroke="#2d1b4e" stroke-width="1"/>
+<text x="128" y="1325" text-anchor="middle" fill="#00ff88" font-size="22" font-weight="700">&#x221E;</text>
+<text x="128" y="1348" text-anchor="middle" fill="#4a5568" font-size="10" letter-spacing="1">COMMITS</text>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOXUSTIC&theme=radical&ring=A855F7&fire=00FF88&currStreakLabel=A855F7&border=A855F7&background=060608&sideLabels=c8ffd4&dates=4a7a5a" alt="GitHub Streak" />
-</p>
+<rect x="244" y="1296" width="192" height="62" rx="4" fill="#0a0a10" stroke="#2d1b4e" stroke-width="1"/>
+<text x="340" y="1325" text-anchor="middle" fill="#a855f7" font-size="22" font-weight="700">17</text>
+<text x="340" y="1348" text-anchor="middle" fill="#4a5568" font-size="10" letter-spacing="1">ROBOTS BUILT</text>
 
----
+<rect x="456" y="1296" width="192" height="62" rx="4" fill="#0a0a10" stroke="#2d1b4e" stroke-width="1"/>
+<text x="552" y="1325" text-anchor="middle" fill="#00ff88" font-size="22" font-weight="700">404</text>
+<text x="552" y="1348" text-anchor="middle" fill="#4a5568" font-size="10" letter-spacing="1">SLEEP NOT FOUND</text>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Robots%20Built-17-A855F7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyYTIgMiAwIDAgMSAyIDJ2MmgyYTIgMiAwIDAgMSAyIDJ2OGEyIDIgMCAwIDEtMiAySDhhMiAyIDAgMCAxLTItMlY4YTIgMiAwIDAgMSAyLTJoMlY0YTIgMiAwIDAgMSAyLTJ6TTkgMTBhMSAxIDAgMCAwIDAgMiAxIDEgMCAwIDAgMC0yek0xNSAxMGExIDEgMCAwIDAgMCAyIDEgMSAwIDAgMCAwLTJ6TTkgMTRoNnYxSDl6Ii8+PC9zdmc+" />
-  <img src="https://img.shields.io/badge/Sleep-404%20Not%20Found-00FF88?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=NOXUSTIC&label=Profile+Views&color=A855F7&style=for-the-badge" alt="Profile Views" />
-</p>
+<!-- PROMPT 6 links y=1378 -->
+<text x="32" y="1398" fill="#a855f7" font-size="13" font-weight="700">noxustic@BOT-ENG:~$</text>
+<text x="222" y="1398" fill="#00ff88" font-size="13">cat ./links.conf</text>
+
+<text x="52" y="1420" fill="#a855f7" font-size="12">&#x2192;</text><text x="68" y="1420" fill="#4a5568" font-size="12">portfolio   :</text><text x="180" y="1420" fill="#00ff88" font-size="12">saadat-five.vercel.app</text>
+<text x="52" y="1438" fill="#a855f7" font-size="12">&#x2192;</text><text x="68" y="1438" fill="#4a5568" font-size="12">company     :</text><text x="180" y="1438" fill="#00ff88" font-size="12">botengineersbd.com</text>
+<text x="52" y="1456" fill="#a855f7" font-size="12">&#x2192;</text><text x="68" y="1456" fill="#4a5568" font-size="12">linkedin    :</text><text x="180" y="1456" fill="#00ff88" font-size="12">saadat-s-rahman</text>
+<text x="52" y="1474" fill="#a855f7" font-size="12">&#x2192;</text><text x="68" y="1474" fill="#4a5568" font-size="12">github      :</text><text x="180" y="1474" fill="#00ff88" font-size="12">github.com/NOXUSTIC</text>
+
+<!-- PROMPT 7 status y=1504 -->
+<text x="32" y="1524" fill="#a855f7" font-size="13" font-weight="700">noxustic@BOT-ENG:~$</text>
+<text x="222" y="1524" fill="#00ff88" font-size="13">echo $STATUS</text>
+
+<text x="52" y="1548" fill="#00ff88" font-size="12">&#x25B8;</text><text x="68" y="1548" fill="#4a5568" font-size="12">Currently:</text><text x="158" y="1548" fill="#c8ffd4" font-size="12">Learning ML &amp; AI</text>
+<text x="52" y="1566" fill="#00ff88" font-size="12">&#x25B8;</text><text x="68" y="1566" fill="#4a5568" font-size="12">Open to:</text><text x="158" y="1566" fill="#c8ffd4" font-size="12">Hardware x Software collabs</text>
+<text x="52" y="1584" fill="#a855f7" font-size="12">&#x25B8;</text><text x="68" y="1584" fill="#4a5568" font-size="12">Building:</text><text x="158" y="1584" fill="#a855f7" font-size="12">something that moves...</text>
+
+<!-- FINAL PROMPT + CURSOR y=1606 -->
+<text x="32" y="1606" fill="#a855f7" font-size="13" font-weight="700">noxustic@BOT-ENG:~$</text>
+<rect x="222" y="1593" width="8" height="14" fill="#00ff88" class="blink"/>
+
+</svg>
+SVGEOF
+echo "Done. Size: $(wc -c < /mnt/user-data/outputs/profile-card.svg) bytes"
+
