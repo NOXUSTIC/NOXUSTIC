@@ -1,24 +1,110 @@
-# Hi, I'm @NOXUSTIC [SAADAT]
+```
+███╗   ██╗ ██████╗ ██╗  ██╗██╗   ██╗███████╗████████╗██╗ ██████╗
+████╗  ██║██╔═══██╗╚██╗██╔╝██║   ██║██╔════╝╚══██╔══╝██║██╔════╝
+██╔██╗ ██║██║   ██║ ╚███╔╝ ██║   ██║███████╗   ██║   ██║██║
+██║╚██╗██║██║   ██║ ██╔██╗ ██║   ██║╚════██║   ██║   ██║██║
+██║ ╚████║╚██████╔╝██╔╝ ██╗╚██████╔╝███████║   ██║   ██║╚██████╗
+╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝ ╚═════╝
+```
 
 > *"Building robots that bridge the gap between imagination and reality."*
 
-CTO at BOT Engineers | Robotics & Embedded Systems Engineer | Hardware + Software
+---
+
+```zsh
+noxustic@bot-engineers ~ zsh — 80×24
+
+[ OK   ] Starting system profile...
+[ OK   ] Loading embedded systems driver...
+[ WARN ] Coffee levels: critically low
+[ OK   ] Mounting /dev/robot ... done
+
+noxustic@BOT-ENG:~$ cat ./profile.json
+```
+
+```json
+{
+  "alias":     "NOXUSTIC",
+  "real_name": "Saadat S. Rahman",
+  "role":      "CTO @ BOT Engineers",
+  "location":  "Narayanganj, BD",
+  "pronouns":  "he/him",
+  "fun_fact":  "I build robots for fun"
+}
+```
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&width=600&lines=Robotics+%26+Embedded+Systems+Engineer;ML+%2F+AI+Enthusiast;Hardware+%2B+Software+Builder;17+Robots+Built+%26+Counting..." alt="Typing SVG" />
+```zsh
+noxustic@BOT-ENG:~$ lspci | grep -i "skill"
+```
+
+**`// embedded + robotics`**
+
+`Arduino` `ROS` `Autodesk Fusion` `SolidWorks` `OpenCV` `MATLAB` `TensorFlow` `Linux` `Bash`
+
+**`// languages`**
+
+`C` `C++` `Python` `JavaScript` `Java` `PHP`
+
+**`// web + backend`**
+
+`Django` `MySQL` `MongoDB` `Firebase` `Heroku`
+
+**`// design + viz`**
+
+`Figma` `Blender` `Illustrator` `D3.js`
 
 ---
 
-- Interested in **Embedded Systems** and **Web Development**
-- Currently learning **Machine Learning & Artificial Intelligence**
-- Looking to collaborate on innovative projects that **blend hardware and software**
-- Pronouns: **He/Him**
-- Fun fact: I've built **17 robots** that solve real-world problems!
+```zsh
+noxustic@BOT-ENG:~$ ./skill_levels --bar
+```
+
+**`// proficiency`**
+
+| Skill | Level |
+|---|---|
+| Embedded Systems | ![91%](https://progress-bar.xyz/91/?scale=100&title=&width=300&color=A855F7&suffix=%) |
+| C / C++ | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=300&color=A855F7&suffix=%) |
+| Robotics / ROS | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=300&color=00c97a&suffix=%) |
+| Python | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=300&color=00c97a&suffix=%) |
+| Web Dev | ![74%](https://progress-bar.xyz/74/?scale=100&title=&width=300&color=00FF88&suffix=%) |
+| Machine Learning | ![68%](https://progress-bar.xyz/68/?scale=100&title=&width=300&color=00FF88&suffix=%) |
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=300&lines=%5B+Connect+%26+Find+Me+%5D" alt="Connect" />
+```zsh
+noxustic@BOT-ENG:~$ github-cli stats NOXUSTIC
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NOXUSTIC&show_icons=true&theme=radical&title_color=A855F7&icon_color=00FF88&border_color=A855F7&bg_color=060608&text_color=c8ffd4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NOXUSTIC&layout=compact&theme=radical&title_color=A855F7&border_color=A855F7&bg_color=060608&text_color=c8ffd4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOXUSTIC&theme=radical&ring=A855F7&fire=00FF88&currStreakLabel=A855F7&border=A855F7&background=060608&sideLabels=c8ffd4&dates=4a7a5a" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Robots%20Built-17-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sleep-404%20Not%20Found-00FF88?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=NOXUSTIC&label=Profile+Views&color=A855F7&style=for-the-badge" />
+</p>
+
+---
+
+```zsh
+noxustic@BOT-ENG:~$ cat ./links.conf
+```
+
+```
+→ portfolio   saadat-five.vercel.app
+→ company     botengineersbd.com
+→ linkedin    saadat-s-rahman
+→ github      github.com/NOXUSTIC
+```
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saadat--five.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://saadat-five.vercel.app)
 [![BOT Engineers](https://img.shields.io/badge/BOT%20Engineers-botengineersbd.com-00FF88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.botengineersbd.com)
@@ -27,89 +113,14 @@ CTO at BOT Engineers | Robotics & Embedded Systems Engineer | Hardware + Softwar
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=350&lines=%5B+Robotics+%26+Embedded+Systems+%5D" alt="Robotics" />
+```zsh
+noxustic@BOT-ENG:~$ echo $STATUS
+```
 
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="SolidWorks" width="100" height="40"/>
-  <img src="https://img.shields.io/badge/ROS-A855F7?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" height="40"/>
-  <img src="https://img.shields.io/badge/Autodesk%20Fusion-00FF88?style=for-the-badge&logo=autodesk&logoColor=black" alt="Autodesk Fusion" height="40"/>
-</p>
+```
+▸ Currently : Learning ML & AI
+▸ Open to   : Hardware × Software collabs
+▸ Building  : something that moves...
 
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=300&lines=%5B+Programming+Languages+%5D" alt="Languages" />
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=280&lines=%5B+Web+%26+Backend+%5D" alt="Web" />
-
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-</p>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=300&lines=%5B+Design+%26+Visualization+%5D" alt="Design" />
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
-</p>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=260&lines=%5B+Proficiency+%5D" alt="Proficiency" />
-
-| Skill | Progress |
-|---|---|
-| Embedded Systems — 91% | ![91%](https://progress-bar.xyz/91/?scale=100&title=&width=300&color=A855F7&suffix=%) |
-| C / C++ — 88% | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=300&color=A855F7&suffix=%) |
-| Robotics / ROS — 85% | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=300&color=00c97a&suffix=%) |
-| Python — 80% | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=300&color=00c97a&suffix=%) |
-| Web Dev — 74% | ![74%](https://progress-bar.xyz/74/?scale=100&title=&width=300&color=00FF88&suffix=%) |
-| Machine Learning — 68% | ![68%](https://progress-bar.xyz/68/?scale=100&title=&width=300&color=00FF88&suffix=%) |
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=99999&color=00FF88&width=230&lines=%5B+GitHub+Stats+%5D" alt="Stats" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NOXUSTIC&show_icons=true&theme=radical&title_color=A855F7&icon_color=00FF88&border_color=A855F7&bg_color=060608&text_color=c8ffd4" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NOXUSTIC&layout=compact&theme=radical&title_color=A855F7&border_color=A855F7&bg_color=060608&text_color=c8ffd4" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOXUSTIC&theme=radical&ring=A855F7&fire=00FF88&currStreakLabel=A855F7&border=A855F7&background=060608&sideLabels=c8ffd4&dates=4a7a5a" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Robots%20Built-17-A855F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sleep-404%20Not%20Found-00FF88?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=NOXUSTIC&label=Profile+Views&color=A855F7&style=for-the-badge" />
-</p>
+noxustic@BOT-ENG:~$ █
+```
