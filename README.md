@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./banner.svg" alt="NOXUSTIC" width="780"/>
+  <img src="./noxustic_full_banner.svg" alt="NOXUSTIC" width="780"/>
 </p>
