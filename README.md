@@ -1,13 +1,8 @@
-```
-███╗   ██╗ ██████╗ ██╗  ██╗██╗   ██╗███████╗████████╗██╗ ██████╗
-████╗  ██║██╔═══██╗╚██╗██╔╝██║   ██║██╔════╝╚══██╔══╝██║██╔════╝
-██╔██╗ ██║██║   ██║ ╚███╔╝ ██║   ██║███████╗   ██║   ██║██║
-██║╚██╗██║██║   ██║ ██╔██╗ ██║   ██║╚════██║   ██║   ██║██║
-██║ ╚████║╚██████╔╝██╔╝ ██╗╚██████╔╝███████║   ██║   ██║╚██████╗
-╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝ ╚═════╝
-```
+<p align="center">
+  <img src="./banner.svg" alt="NOXUSTIC" width="780"/>
+</p>
 
-> *"Building robots that bridge the gap between imagination and reality."*
+> <p align="center"><i>"Building robots that bridge the gap between imagination and reality."</i></p>
 
 ---
 
