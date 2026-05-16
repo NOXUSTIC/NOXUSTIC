@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 160" width="780" height="160">
+  <rect width="780" height="160" rx="12" fill="#0d0d1a"/>
+  <rect width="780" height="36" rx="12" fill="#1a1a2e"/>
+  <rect y="24" width="780" height="12" fill="#1a1a2e"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="390" y="23" font-family="JetBrains Mono, monospace" font-size="12" fill="#a78bfa" text-anchor="middle" opacity="0.8">noxustic@BOT-ENG:~$ echo $STATUS</text>
+
+  <text font-family="JetBrains Mono, Courier New, monospace" font-size="13" xml:space="preserve">
+    <tspan x="20" dy="58" fill="#00FF88">▸ Currently  </tspan><tspan fill="#e9d5ff">: Learning ML &amp; AI</tspan>
+    <tspan x="20" dy="24" fill="#00FF88">▸ Open to    </tspan><tspan fill="#e9d5ff">: Hardware × Software collabs</tspan>
+    <tspan x="20" dy="24" fill="#00FF88">▸ Building   </tspan><tspan fill="#e9d5ff">: something that moves...</tspan>
+  </text>
+  <text x="20" y="148" font-family="JetBrains Mono, monospace" font-size="13" fill="#A855F7">noxustic@BOT-ENG:~$ <tspan fill="#A855F7" opacity="0.7">█</tspan></text>
+</svg>

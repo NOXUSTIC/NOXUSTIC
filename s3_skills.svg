@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 290" width="780" height="290">
+  <rect width="780" height="290" rx="12" fill="#0d0d1a"/>
+  <rect width="780" height="36" rx="12" fill="#1a1a2e"/>
+  <rect y="24" width="780" height="12" fill="#1a1a2e"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="390" y="23" font-family="JetBrains Mono, monospace" font-size="12" fill="#a78bfa" text-anchor="middle" opacity="0.8">noxustic@BOT-ENG:~$ ./skill_levels --bar</text>
+
+  <text font-family="JetBrains Mono, Courier New, monospace" font-size="13" xml:space="preserve">
+    <tspan x="20" dy="56" fill="#A855F7">// proficiency</tspan>
+  </text>
+
+  <!-- Bar rows: label, bar bg, bar fill, percent -->
+  <!-- Embedded Systems 91% -->
+  <text x="20" y="88" font-family="JetBrains Mono, monospace" font-size="12" fill="#e9d5ff">Embedded Systems</text>
+  <rect x="220" y="74" width="480" height="14" rx="7" fill="#1a1a2e"/>
+  <rect x="220" y="74" width="437" height="14" rx="7" fill="#A855F7"/>
+  <text x="714" y="86" font-family="JetBrains Mono, monospace" font-size="11" fill="#A855F7">91%</text>
+
+  <!-- C/C++ 88% -->
+  <text x="20" y="118" font-family="JetBrains Mono, monospace" font-size="12" fill="#e9d5ff">C / C++         </text>
+  <rect x="220" y="104" width="480" height="14" rx="7" fill="#1a1a2e"/>
+  <rect x="220" y="104" width="422" height="14" rx="7" fill="#A855F7"/>
+  <text x="714" y="116" font-family="JetBrains Mono, monospace" font-size="11" fill="#A855F7">88%</text>
+
+  <!-- Robotics/ROS 85% -->
+  <text x="20" y="148" font-family="JetBrains Mono, monospace" font-size="12" fill="#e9d5ff">Robotics / ROS  </text>
+  <rect x="220" y="134" width="480" height="14" rx="7" fill="#1a1a2e"/>
+  <rect x="220" y="134" width="408" height="14" rx="7" fill="#00FF88"/>
+  <text x="714" y="146" font-family="JetBrains Mono, monospace" font-size="11" fill="#00FF88">85%</text>
+
+  <!-- Python 80% -->
+  <text x="20" y="178" font-family="JetBrains Mono, monospace" font-size="12" fill="#e9d5ff">Python          </text>
+  <rect x="220" y="164" width="480" height="14" rx="7" fill="#1a1a2e"/>
+  <rect x="220" y="164" width="384" height="14" rx="7" fill="#00FF88"/>
+  <text x="714" y="176" font-family="JetBrains Mono, monospace" font-size="11" fill="#00FF88">80%</text>
+
+  <!-- Web Dev 74% -->
+  <text x="20" y="208" font-family="JetBrains Mono, monospace" font-size="12" fill="#e9d5ff">Web Dev         </text>
+  <rect x="220" y="194" width="480" height="14" rx="7" fill="#1a1a2e"/>
+  <rect x="220" y="194" width="355" height="14" rx="7" fill="#00c97a"/>
+  <text x="714" y="206" font-family="JetBrains Mono, monospace" font-size="11" fill="#00c97a">74%</text>
+
+  <!-- Machine Learning 68% -->
+  <text x="20" y="238" font-family="JetBrains Mono, monospace" font-size="12" fill="#e9d5ff">Machine Learning</text>
+  <rect x="220" y="224" width="480" height="14" rx="7" fill="#1a1a2e"/>
+  <rect x="220" y="224" width="326" height="14" rx="7" fill="#00c97a"/>
+  <text x="714" y="236" font-family="JetBrains Mono, monospace" font-size="11" fill="#00c97a">68%</text>
+
+  <text x="20" y="272" font-family="JetBrains Mono, monospace" font-size="12" fill="#4a4a6a">noxustic@BOT-ENG:~$ █</text>
+</svg>
