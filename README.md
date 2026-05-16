@@ -2,31 +2,15 @@
   <img src="./banner.svg" alt="NOXUSTIC" width="780"/>
 </p>
 
-> <p align="center"><i>"Building robots that bridge the gap between imagination and reality."</i></p>
+<p align="center">
+  <img src="./s1_boot.svg" alt="Boot Sequence" width="780"/>
+</p>
 
 ---
 
-```zsh
-noxustic@bot-engineers ~ zsh — 80×24
-
-[ OK   ] Starting system profile...
-[ OK   ] Loading embedded systems driver...
-[ WARN ] Coffee levels: critically low
-[ OK   ] Mounting /dev/robot ... done
-
-noxustic@BOT-ENG:~$ cat ./profile.json
-```
-
-```json
-{
-  "alias":     "NOXUSTIC",
-  "real_name": "Saadat S. Rahman",
-  "role":      "CTO @ BOT Engineers",
-  "location":  "Narayanganj, BD",
-  "pronouns":  "he/him",
-  "fun_fact":  "I build robots for fun"
-}
-```
+<p align="center">
+  <img src="./s2_whoami.svg" alt="Identity" width="780"/>
+</p>
 
 ---
 
@@ -80,26 +64,15 @@ noxustic@BOT-ENG:~$ lspci | grep -i "skill"
 
 ---
 
-```zsh
-noxustic@BOT-ENG:~$ ./skill_levels --bar
-```
-
-**`// proficiency`**
-
-| Skill | Level |
-|---|---|
-| Embedded Systems | ![91%](https://progress-bar.xyz/91/?scale=100&title=&width=300&color=A855F7&suffix=%) |
-| C / C++ | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=300&color=A855F7&suffix=%) |
-| Robotics / ROS | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=300&color=9333EA&suffix=%) |
-| Python | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=300&color=9333EA&suffix=%) |
-| Web Dev | ![74%](https://progress-bar.xyz/74/?scale=100&title=&width=300&color=7C3AED&suffix=%) |
-| Machine Learning | ![68%](https://progress-bar.xyz/68/?scale=100&title=&width=300&color=7C3AED&suffix=%) |
+<p align="center">
+  <img src="./s3_skills.svg" alt="Proficiency" width="780"/>
+</p>
 
 ---
 
-```zsh
-noxustic@BOT-ENG:~$ github-cli stats NOXUSTIC
-```
+<p align="center">
+  <img src="./s4_stats.svg" alt="Stats" width="780"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NOXUSTIC&show_icons=true&theme=radical&title_color=A855F7&icon_color=9333EA&border_color=A855F7&bg_color=060608&text_color=e9d5ff" />
@@ -110,40 +83,27 @@ noxustic@BOT-ENG:~$ github-cli stats NOXUSTIC
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOXUSTIC&theme=radical&ring=A855F7&fire=9333EA&currStreakLabel=A855F7&border=A855F7&background=060608&sideLabels=e9d5ff&dates=9333EA" />
 </p>
 
+---
+
+<p align="center">
+  <img src="./s5_links.svg" alt="Links" width="780"/>
+</p>
+
+<p align="center">
+  <a href="https://saadat-five.vercel.app"><img src="https://img.shields.io/badge/Portfolio-saadat--five.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.botengineersbd.com"><img src="https://img.shields.io/badge/BOT%20Engineers-botengineersbd.com-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://bd.linkedin.com/in/saadat-s-rahman-7634a1277"><img src="https://img.shields.io/badge/LinkedIn-Saadat%20S.%20Rahman-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/NOXUSTIC"><img src="https://img.shields.io/badge/GitHub-NOXUSTIC-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="./s6_status.svg" alt="Status" width="780"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Robots%20Built-17-A855F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sleep-404%20Not%20Found-7C3AED?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=NOXUSTIC&label=Profile+Views&color=A855F7&style=for-the-badge" />
 </p>
-
----
-
-```zsh
-noxustic@BOT-ENG:~$ cat ./links.conf
-```
-
-```
-→ portfolio   saadat-five.vercel.app
-→ company     botengineersbd.com
-→ linkedin    saadat-s-rahman
-→ github      github.com/NOXUSTIC
-```
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-saadat--five.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://saadat-five.vercel.app)
-[![BOT Engineers](https://img.shields.io/badge/BOT%20Engineers-botengineersbd.com-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.botengineersbd.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saadat%20S.%20Rahman-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/saadat-s-rahman-7634a1277)
-[![GitHub](https://img.shields.io/badge/GitHub-NOXUSTIC-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NOXUSTIC)
-
----
-
-```zsh
-noxustic@BOT-ENG:~$ echo $STATUS
-```
-
-```
-▸ Currently : Learning ML & AI
-▸ Open to   : Hardware × Software collabs
-▸ Building  : something that moves...
-
-noxustic@BOT-ENG:~$ █
-```
